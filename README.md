@@ -17,7 +17,7 @@
 ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded)
 ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded)
 ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded)
-
+![Nest.js](https://www.shieldcn.dev/badge/-Nest.js-06B6D4.svg?logo=nestdotjs&variant=branded)
 ---
 
 <sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
