@@ -4,7 +4,6 @@
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40alexsanox-181717.svg?logo=github&variant=branded)](https://github.com/alexsanox)
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/alexsanox.svg?variant=secondary)](https://github.com/alexsanox?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/alexsanox.svg?variant=secondary)](https://github.com/alexsanox?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-3-2563eb.svg?logo=github&variant=secondary)](https://github.com/alexsanox?tab=repositories)
 
 </div>
 
