@@ -2,7 +2,7 @@
 
 # Hi, I'm AlexSan :wave:
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40alexsanox-181717.svg?logo=github&variant=branded)](https://github.com/alexsanox)
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40thealexsan-181717.svg?logo=github&variant=branded)](https://github.com/thealexsan)
 
 ---
 
