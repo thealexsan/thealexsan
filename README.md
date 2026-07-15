@@ -8,6 +8,8 @@
 
 I build type-safe web applications, scalable database schemas, and high-performance backend systems.
 
+[![Trophies](https://github-trophies.devomb.com/?username=thealexsan&theme=onedark)](https://github.com/thealexsan)
+
 </div>
 
 ## Tech Stack
@@ -45,7 +47,5 @@ I build type-safe web applications, scalable database schemas, and high-performa
 [![AlexSan's GitHub Stats](https://ghstats.dev/api/card?username=thealexsan&theme=tokyonight)](https://github.com/thealexsan)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thealexsan&theme=tokyonight)](https://github.com/thealexsan)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=thealexsan&theme=onedark)](https://github.com/thealexsan)
 
 </div>
