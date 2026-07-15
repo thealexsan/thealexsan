@@ -42,8 +42,8 @@ I build type-safe web applications, scalable database schemas, and high-performa
 
 <div align="center">
 
-[![AlexSan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsanox&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![AlexSan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thealexsan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsanox&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealexsan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
