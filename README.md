@@ -8,8 +8,6 @@
 
 I build type-safe web applications, scalable database schemas, and high-performance backend systems.
 
-[![Trophies](https://github-trophies.devomb.com/?username=thealexsan&theme=onedark)](https://github.com/thealexsan)
-
 </div>
 
 ## Tech Stack
