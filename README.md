@@ -38,12 +38,4 @@ I build type-safe web applications, scalable database schemas, and high-performa
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-[![AlexSan's GitHub Stats](https://ghstats.dev/api/card?username=thealexsan&theme=tokyonight)](https://github.com/thealexsan)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thealexsan&theme=tokyonight)](https://github.com/thealexsan)
-
-</div>
