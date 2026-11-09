@@ -21,7 +21,7 @@ I enjoy working with strongly typed languages, designing scalable database archi
 - Backend architecture and API development
 - Systems programming and performance engineering
 - Database design and data modeling
-- Real-time rendering and graphics programming
+- Graphics programming and rendering
 - Full-stack application development
 - Infrastructure, automation, and developer tooling
 
@@ -91,13 +91,12 @@ I enjoy working with strongly typed languages, designing scalable database archi
 
 ---
 
-## GitHub
+## GitHub Statistics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thealexsan&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/thealexsan)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thealexsan&layout=compact&theme=github_dark&hide_border=true)](https://github.com/thealexsan)
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=thealexsan&show_icons=true&theme=github_dark&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thealexsan&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
